@@ -1,0 +1,1 @@
+In an installation of Batocera that is currently booted into, these files can be found at /usr/share/batocera/datainit/decorations/. You can edit these files to preview your changes.
